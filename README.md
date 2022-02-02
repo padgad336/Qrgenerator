@@ -1,0 +1,2 @@
+# Qrgenerator
+Created with CodeSandbox
